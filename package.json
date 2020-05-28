@@ -1,11 +1,11 @@
 {
-    "name": "node-mongo-registration-login-api",
+    "name": "authentication-api-for-zen-students-project",
     "version": "1.0.0",
-    "description": "NodeJS + MongoDB API for User Management, Authentication and Registration",
+    "description": "Registration & Authentication API for ZEN students projects, designed with NodeJS + MongoDB.",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/node-mongo-registration-login-api.git"
+        "url": "https://github.com/rvsp/user-auth-api.git"
     },
     "scripts": {
         "start": "node ./server.js",
